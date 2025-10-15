@@ -1,0 +1,17 @@
+C:\Users\yosju\Source\Repos\Práctica 1. GIF Animado\bin\Debug\net8.0-windows\Práctica 1. GIF Animado.exe
+C:\Users\yosju\Source\Repos\Práctica 1. GIF Animado\bin\Debug\net8.0-windows\Práctica 1. GIF Animado.deps.json
+C:\Users\yosju\Source\Repos\Práctica 1. GIF Animado\bin\Debug\net8.0-windows\Práctica 1. GIF Animado.runtimeconfig.json
+C:\Users\yosju\Source\Repos\Práctica 1. GIF Animado\bin\Debug\net8.0-windows\Práctica 1. GIF Animado.dll
+C:\Users\yosju\Source\Repos\Práctica 1. GIF Animado\bin\Debug\net8.0-windows\Práctica 1. GIF Animado.pdb
+C:\Users\yosju\Source\Repos\Práctica 1. GIF Animado\obj\Debug\net8.0-windows\Práctica_1._GIF_Animado.Form1.resources
+C:\Users\yosju\Source\Repos\Práctica 1. GIF Animado\obj\Debug\net8.0-windows\Práctica_1._GIF_Animado.Properties.Resources.resources
+C:\Users\yosju\Source\Repos\Práctica 1. GIF Animado\obj\Debug\net8.0-windows\Práctica 1. GIF Animado.csproj.GenerateResource.cache
+C:\Users\yosju\Source\Repos\Práctica 1. GIF Animado\obj\Debug\net8.0-windows\Práctica 1. GIF Animado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yosju\Source\Repos\Práctica 1. GIF Animado\obj\Debug\net8.0-windows\Práctica 1. GIF Animado.AssemblyInfoInputs.cache
+C:\Users\yosju\Source\Repos\Práctica 1. GIF Animado\obj\Debug\net8.0-windows\Práctica 1. GIF Animado.AssemblyInfo.cs
+C:\Users\yosju\Source\Repos\Práctica 1. GIF Animado\obj\Debug\net8.0-windows\Práctica 1. GIF Animado.csproj.CoreCompileInputs.cache
+C:\Users\yosju\Source\Repos\Práctica 1. GIF Animado\obj\Debug\net8.0-windows\Práctica 1. GIF Animado.dll
+C:\Users\yosju\Source\Repos\Práctica 1. GIF Animado\obj\Debug\net8.0-windows\refint\Práctica 1. GIF Animado.dll
+C:\Users\yosju\Source\Repos\Práctica 1. GIF Animado\obj\Debug\net8.0-windows\Práctica 1. GIF Animado.pdb
+C:\Users\yosju\Source\Repos\Práctica 1. GIF Animado\obj\Debug\net8.0-windows\Práctica 1. GIF Animado.genruntimeconfig.cache
+C:\Users\yosju\Source\Repos\Práctica 1. GIF Animado\obj\Debug\net8.0-windows\ref\Práctica 1. GIF Animado.dll
