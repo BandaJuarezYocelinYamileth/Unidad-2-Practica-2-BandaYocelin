@@ -1,0 +1,16 @@
+C:\Users\Alumnos\Desktop\EduxrLxL\Práctica 6. Area Triángulo\bin\Debug\net6.0-windows\Práctica 6. Area Triángulo.exe
+C:\Users\Alumnos\Desktop\EduxrLxL\Práctica 6. Area Triángulo\bin\Debug\net6.0-windows\Práctica 6. Area Triángulo.deps.json
+C:\Users\Alumnos\Desktop\EduxrLxL\Práctica 6. Area Triángulo\bin\Debug\net6.0-windows\Práctica 6. Area Triángulo.runtimeconfig.json
+C:\Users\Alumnos\Desktop\EduxrLxL\Práctica 6. Area Triángulo\bin\Debug\net6.0-windows\Práctica 6. Area Triángulo.dll
+C:\Users\Alumnos\Desktop\EduxrLxL\Práctica 6. Area Triángulo\bin\Debug\net6.0-windows\Práctica 6. Area Triángulo.pdb
+C:\Users\Alumnos\Desktop\EduxrLxL\Práctica 6. Area Triángulo\obj\Debug\net6.0-windows\Práctica_6._Area_Triángulo.Form1.resources
+C:\Users\Alumnos\Desktop\EduxrLxL\Práctica 6. Area Triángulo\obj\Debug\net6.0-windows\Práctica 6. Area Triángulo.csproj.GenerateResource.cache
+C:\Users\Alumnos\Desktop\EduxrLxL\Práctica 6. Area Triángulo\obj\Debug\net6.0-windows\Práctica 6. Area Triángulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumnos\Desktop\EduxrLxL\Práctica 6. Area Triángulo\obj\Debug\net6.0-windows\Práctica 6. Area Triángulo.AssemblyInfoInputs.cache
+C:\Users\Alumnos\Desktop\EduxrLxL\Práctica 6. Area Triángulo\obj\Debug\net6.0-windows\Práctica 6. Area Triángulo.AssemblyInfo.cs
+C:\Users\Alumnos\Desktop\EduxrLxL\Práctica 6. Area Triángulo\obj\Debug\net6.0-windows\Práctica 6. Area Triángulo.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\Desktop\EduxrLxL\Práctica 6. Area Triángulo\obj\Debug\net6.0-windows\Práctica 6. Area Triángulo.dll
+C:\Users\Alumnos\Desktop\EduxrLxL\Práctica 6. Area Triángulo\obj\Debug\net6.0-windows\refint\Práctica 6. Area Triángulo.dll
+C:\Users\Alumnos\Desktop\EduxrLxL\Práctica 6. Area Triángulo\obj\Debug\net6.0-windows\Práctica 6. Area Triángulo.pdb
+C:\Users\Alumnos\Desktop\EduxrLxL\Práctica 6. Area Triángulo\obj\Debug\net6.0-windows\Práctica 6. Area Triángulo.genruntimeconfig.cache
+C:\Users\Alumnos\Desktop\EduxrLxL\Práctica 6. Area Triángulo\obj\Debug\net6.0-windows\ref\Práctica 6. Area Triángulo.dll
